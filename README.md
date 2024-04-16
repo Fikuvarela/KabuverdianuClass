@@ -1,2 +1,1 @@
-# KabuverdianuClass
-LearnKabuverdianu
+# kabuverdi
